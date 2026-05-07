@@ -1,16 +1,36 @@
-## Hi there 👋
+# Gustavo Fontanez
 
-<!--
-**gustavohfontanez2007-lgtm/gustavohfontanez2007-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação | 1º ano  
+Buscando minha primeira oportunidade de estágio em tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 🎓 Cursando **Ciência da Computação** (1º ano)
+- 📚 Desenvolvendo habilidades em programação por meio de cursos complementares
+- 🌐 Aprimorando o inglês de forma contínua
+- 🔍 Aberto a oportunidades de **estágio** em desenvolvimento de software
+
+---
+
+## Em aprendizado
+
+Atualmente me dedicando a construir uma base sólida em:
+
+- Lógica de programação e algoritmos
+- Fundamentos de estruturas de dados
+- Inglês técnico aplicado à tecnologia
+
+---
+
+## Objetivos
+
+Consolidar meu aprendizado técnico por meio de projetos práticos e contribuir com equipes que valorizem o crescimento profissional e o desenvolvimento contínuo.
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-fontanez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)

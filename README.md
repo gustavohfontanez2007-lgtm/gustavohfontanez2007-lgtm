@@ -1,7 +1,4 @@
-# Gustavo Fontanez
-
-Estudante de Ciência da Computação | 1º ano  
-Buscando minha primeira oportunidade de estágio em tecnologia.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=500&lines=Olá%2C+sou+Gustavo+Fontanez!;Estudante+de+Ciência+da+Computação;Buscando+meu+primeiro+estágio)](https://git.io/typing-svg)
 
 ---
 
@@ -21,6 +18,14 @@ Atualmente me dedicando a construir uma base sólida em:
 - Lógica de programação e algoritmos
 - Fundamentos de estruturas de dados
 - Inglês técnico aplicado à tecnologia
+
+---
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavohfontanez2007-lgtm&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohfontanez2007-lgtm&layout=compact&theme=dark&hide_border=true)
 
 ---
 
